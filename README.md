@@ -23,7 +23,7 @@ A curated list of certification tools, frameworks and articles.
 
 ### Database
 
-- [Redis Certified Developer](https://university.redis.com/certification)
+- [Redis Certified Developer](https://university.redis.com/certification-enrollment)
 - [Certified Associate Developer](https://learn.mongodb.com/pages/mongodb-associate-developer-exam)
 
 ### DevOps
