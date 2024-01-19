@@ -1,8 +1,8 @@
 # awesome-certifications [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <a href="https://">
-    <img src="https://www.pngkey.com/png/full/"
-         alt="Certifications logo" title="Certifications" />
+    <img src="https://raw.githubusercontent.com/BTDevelop/awesome-certifications/main/logo.png"
+         alt="awesome certifications logo" title="awesome certifications" />
 </a></br>
 
 A curated list of certification tools, frameworks and articles.
