@@ -1,11 +1,13 @@
 # awesome-certifications [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+<p align="center">
 <a href="https://">
     <img src="https://raw.githubusercontent.com/BTDevelop/awesome-certifications/main/logo.png"
          alt="awesome certifications logo" title="awesome certifications"
          style="display: block; margin-left: auto; margin-right: auto;"
     />
-</a></br>
+</a>
+</p>
+</br>
 
 A curated list of certification tools, frameworks and articles.
 
