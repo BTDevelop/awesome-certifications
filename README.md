@@ -20,6 +20,7 @@ A curated list of certification tools, frameworks and articles.
     - [Project Management](#project-management)
     - [AI](#ai)
     - [Cloud](#cloud)
+    - [Testing](#testing)
 
 ### Development
 
@@ -61,6 +62,13 @@ A curated list of certification tools, frameworks and articles.
 
 - [AWS Certified Data Engineer](https://explore.skillbuilder.aws/learn/course/external/view/elearning/18609/exam-prep-official-pretest-aws-certified-data-engineer-associate-dea-c01-english)
 - [AWS Solutions Architect](https://explore.skillbuilder.aws/learn/public/learning_plan/view/1044/solutions-architect-knowledge-badge-readiness-path)
+
+### Testing
+
+- [Cypress 101: Elevate Your Automation Game With Cypress](https://www.lambdatest.com/certifications/cypress-101)
+- [Selenium C# 101: Boost Your Expertise In Automation Testing](https://www.lambdatest.com/certifications/selenium-c-sharp-101)
+- [Selenium JavaScript 101: Advance Your Career In Automation Testing](https://www.lambdatest.com/certifications/selenium-javascript-101)
+- [ISTQB Certified Tester Foundation Level (CTFL)](https://www.istqb.org/certifications/certified-tester-foundation-level)
 
 ### Community
 
