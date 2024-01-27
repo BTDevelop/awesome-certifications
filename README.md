@@ -38,6 +38,7 @@ A curated list of certification tools, frameworks and articles.
 ### DevOps
 
 - [Gremlin Certified Chaos Engineering Practitioner - GCCEP](https://www.gremlin.com/certification)
+- [AWS Serverless Learning Plan](https://aws.amazon.com/training/learn-about/serverless)
 - [Chaos Engineering Practitioner](https://university.harness.io/page/product-certifications)
 - [Certified Calico Operator: Azure Expert](https://academy.tigera.io/course/certified-calico-operator-azure-expert)
 - [Certified Calico Operator: AWS Expert](https://academy.tigera.io/course/certified-calico-operator-aws-expert)
