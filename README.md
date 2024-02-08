@@ -44,6 +44,9 @@ A curated list of certification tools, frameworks and articles.
 - [Certified Calico Operator: AWS Expert](https://academy.tigera.io/course/certified-calico-operator-aws-expert)
 - [Certified Calico Operator: eBPF](https://academy.tigera.io/course/certified-calico-operator-ebpf)
 - [Confluent Fundamentals Accreditation](https://training.confluent.io/learningpath/confluent-fundamentals-accreditation)
+- [Get Started with eBPF](https://academy.solo.io/learn/courses/6/get-started-with-ebpf)
+- [Get Started with Istio](https://academy.solo.io/learn/courses/3/get-started-with-istio)
+- [Introduction to Cilium](https://academy.solo.io/learn/courses/8/introduction-to-cilium)
 
 ### Cloud Native
 
