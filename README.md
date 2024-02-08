@@ -57,6 +57,10 @@ A curated list of certification tools, frameworks and articles.
 ### Project Management
 
 - [Six Sigma White Belt Training & Certification](https://www.sixsigmaonline.org/six-sigma-white-belt-certification)
+- [Product Manager Certification](https://productschool.com/product-manager-certification)
+- [Artificial Intelligence for Product Certification](https://productschool.com/artificial-intelligence-product-certification)
+- [Product Leader Certification](https://productschool.com/product-leader-certification)
+- [Product Marketing Manager Certification](https://productschool.com/product-marketing-manager-certification)
 
 ### AI
 
